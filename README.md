@@ -47,3 +47,8 @@ Screenshots:
 ![Screenshot 2024-12-31 142456](https://github.com/user-attachments/assets/f70213b8-7154-4f39-8f40-ba0f511a5c5d)
 ![Screenshot 2024-12-31 142450](https://github.com/user-attachments/assets/06433983-11f8-4a8b-b86e-f0b7c8aaff7a)
 ![Screenshot 2024-12-31 142439](https://github.com/user-attachments/assets/4d22061e-dafb-44a4-ad91-18c165c8ea08)
+
+
+
+click the pdf ---->
+[ONLINE JOB PORTAL USING REACT.pdf](https://github.com/user-attachments/files/18280359/ONLINE.JOB.PORTAL.USING.REACT.pdf)
