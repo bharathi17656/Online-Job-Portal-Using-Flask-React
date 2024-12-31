@@ -39,8 +39,9 @@ button.
 Database Connection:
 - Python code establishes a connection to the MySQL database using mysq
 
-
 Screenshots:
+
+
 ![Screenshot 2024-12-31 142426](https://github.com/user-attachments/assets/49b1a9df-c8e4-4b61-aba5-570dea7c3d12)
 ![Screenshot 2024-12-31 142432](https://github.com/user-attachments/assets/e7a96503-e2c9-4992-9785-8f10b6575964)
 ![Screenshot 2024-12-31 142456](https://github.com/user-attachments/assets/f70213b8-7154-4f39-8f40-ba0f511a5c5d)
