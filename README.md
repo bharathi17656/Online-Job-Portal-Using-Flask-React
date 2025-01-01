@@ -1,4 +1,4 @@
-# Online-Job-Portal-Using-Flask-React
+# Online-Job-Portal-Using-React
 
 Objective:
  The Online Job Portal is a sophisticated web platform strategically designed to curate 
